@@ -1,0 +1,21 @@
+body {
+  background-color: #8bcdcd;
+}
+hr {
+
+  border-style: dotted;
+  border-top-style: none;
+  border-color: #a20a0a;
+  border-width: 10px;
+  width: 30%;
+}
+#mainheading  {
+  background-color: #fcf876;
+  color:#52057b;
+}
+.redh3 {
+  color: red;
+}
+.georgia {
+  font-family: Georgia,serif;
+}
